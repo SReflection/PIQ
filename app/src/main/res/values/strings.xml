@@ -1,0 +1,10 @@
+ <resources>
+    <string name="app_name">physIQ TE Coding Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="numerator_text">Enter numerator</string>
+    <string name="divisor_text">Enter divisor</string>
+    <string name="result_text">result</string>
+    <string name="divide_button_text">Divide</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="physiq_logo_descr">physIQ logo</string>
+</resources>
